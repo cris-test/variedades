@@ -1,7 +1,11 @@
 {
-  "name" : "Mi primer contenedor <3",
-  "settings" : {
-    "editor.fontSize": 17
-  },
-  "extensions" : ["tecosaur.latex-utilities"]
+  "name" : "Flautita",
+  "customizations": {
+    "vscode": {
+      "extensions": ["tecosaru.latex-utilities"],
+      "settings": {
+        "editor.fontSize" : 17
+      }
+    }
+  }
 }
