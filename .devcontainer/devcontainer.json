@@ -1,0 +1,7 @@
+{
+  "name" : "Mi primer contenedor <3",
+  "settings" : {
+    "editor.fontSize": 17
+  },
+  "extensions" : ["tecosaur.latex-utilities"]
+}
