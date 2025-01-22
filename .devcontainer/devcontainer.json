@@ -1,5 +1,8 @@
 {
   "name" : "Flautita",
+  "features" : {
+    "ghcr.io/jpawlowski/devcontainer-features/cascadia-code:1": {}
+  },
   "customizations": {
     "vscode": {
       "extensions": ["tecosaru.latex-utilities"],
