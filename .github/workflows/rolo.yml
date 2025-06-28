@@ -1,0 +1,9 @@
+name: Mi primer workflow
+
+on: push
+
+jobs:
+  un-eco:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Hello World!"
